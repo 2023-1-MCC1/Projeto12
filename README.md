@@ -85,6 +85,7 @@ Um jogo simples, porém, com objetivo maior que é a conscientização sobre a i
 |-->executáveis<br>
 
   &emsp;|-->windows<br>
+ProjetoFecap.exe
 
   &emsp;|-->android<br>
 
@@ -142,28 +143,6 @@ Há também 4 pastas que seguem da seguinte forma:
 
 
 
-
-<b>Android:</b>
-
-
-
-
-Faça o Download do JOGO.apk no seu celular.
-
-Execute o APK e siga as instruções de seu telefone.
-
-
-
-
-```sh
-
-Coloque código do prompt de comnando se for necessário
-
-```
-
-
-
-
 <b>Windows:</b>
 
 
@@ -171,7 +150,7 @@ Coloque código do prompt de comnando se for necessário
 
 Não há instalação! Apenas executável!
 
-Encontre o JOGO.exe na pasta executáveis e execute-o como qualquer outro programa.
+Encontre o ProjetoFecap.exe na pasta executáveis e execute-o como qualquer outro programa.
 
 
 
