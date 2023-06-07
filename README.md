@@ -149,6 +149,7 @@ Há também 4 pastas que seguem da seguinte forma:
 
 
 Não há instalação! Apenas executável!
+
 Primeiro baixe o <a href="[https://drive.google.com/file/d/1ICRju7qchexrOcZylD2u3TKdDDvcpUBy/view?usp=sharing]">Jogo</a> aqui
 
 Encontre o ProjetoFecap.exe na pasta executáveis e execute-o como qualquer outro programa.
